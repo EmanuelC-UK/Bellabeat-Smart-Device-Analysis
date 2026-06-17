@@ -5,6 +5,7 @@ As part of the Google Data Analytics Capstone, this project examines public smar
 
 ## 📁 Core Deliverables
 * 📊 [Executive Presentation (PDF)](Bellabeat_Strategic_Analysis.pdf) - High-level business strategy for stakeholders.
+* 📋 [Standalone "Act" Phase Strategic Brief (PDF)](Bellabeat_Case_Study_Act_Phase_Deliverable.pdf) - A concise executive summary detailing the top three actionable business recommendations.
 * 📝 [Comprehensive Technical Report (PDF)](Bellabeat_Technical_Report.pdf) - Full data lifecycle documentation including data governance frameworks (ROCCC), data verification parameters, and analysis summaries.
 * 💻 [Structured SQL Scripts](sql_scripts/) - Clean, documented BigQuery code blocks covering the data ingestion, validation, and feature engineering phases.
 
@@ -14,6 +15,12 @@ As part of the Google Data Analytics Capstone, this project examines public smar
 * **Presentation & Reporting:** Google Slides / MS Word
 
 ## 💡 Key Strategic Recommendations (The "Act" Phase)
-1. **Adaptive "Smart Nudge" Notification Engine:** Deploy contextual app prompts synced to user biology (e.g., a 11:45 AM "Midday Spark" nudge and a 4:00 PM "Post-Work Energy" prompt).
-2. **Sunday "Weekly Wellness Recap":** Transition away from daily step reminders on low-activity Sundays to celebrated weekly progress compilations to foster brand loyalty.
-3. **Gamified E-Commerce Revenue Loop:** Reward peak habit consistency tracks on high-engagement days (Tuesdays/Saturdays) with redeemable points for Bellabeat premium hardware discounts (Ivy, Leaf, Time).
+
+1. **Deploy an Adaptive "Smart Nudge" App Ecosystem**
+   * **Action:** Update the Bellabeat app behavior to sync notifications with user routines. Schedule a `11:45h "Midday Spark"` prompt to drive movement before the lunch peak, a `16:00h "Post-Work Energy"` prompt to encourage evening workouts (16h–19h), and a `19:00h+ Evening Engagement Loop` to deliver wellness content (recipes, tips, blogs) and interactive surveys as physical activity naturally drops.
+
+2. **Establish the Sunday "Weekly Wellness Recap"**
+   * **Action:** Since Sundays represent a universal low-activity rest phase, pivot app messaging away from missing daily step counts. Instead, deliver a celebrated, cumulative weekly summary that rewards consistency over total steps, building positive long-term brand affinity.
+
+3. **Implement a Gamified E-Commerce Revenue Loop**
+   * **Action:** Capitalize on peak activity days (Tuesdays and Saturdays) by rewarding users with streak points for maintaining their habits. Allow users to redeem these points for direct discounts on premium Bellabeat hardware (Ivy, Time, Leaf), effectively converting user tracking data into a hardware upsell engine.
