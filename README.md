@@ -4,7 +4,7 @@
 As part of the Google Data Analytics Capstone, this project examines public smart device tracking data from 33 users to uncover hidden consumer habits and drive global marketing strategies for Bellabeat. By analyzing high-resolution hourly and daily activity trends, I identified predictable windows of opportunity—such as mid-week motivation peaks and late-evening activity plunges—and translated them into actionable app features and hardware upsell engines.
 
 ## 📁 Core Deliverables
-* 📊 [Executive Presentation (PDF)](Bellabeat_Strategic_Analysis.pdf) - High-level business strategy for stakeholders.
+* 📊 [Executive Presentation (PDF)](Bellabeat_Strategic_Analysis.pdf) - High-level business strategy presentation for stakeholders.
 * 📋 [Standalone "Act" Phase Strategic Brief (PDF)](Bellabeat_Case_Study_Act_Phase_Deliverable.pdf) - A concise executive summary detailing the top three actionable business recommendations.
 * 📝 [Comprehensive Technical Report (PDF)](Bellabeat_Technical_Report.pdf) - Full data lifecycle documentation including data governance frameworks (ROCCC), data verification parameters, and analysis summaries.
 * 💻 [Structured SQL Scripts](sql_scripts/) - Clean, documented BigQuery code blocks covering the data ingestion, validation, and feature engineering phases.
